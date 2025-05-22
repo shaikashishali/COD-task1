@@ -1,14 +1,14 @@
 #TO DO LIST
 
-*name* : SHAIK ASHISH ALI
+*NAME* : SHAIK ASHISH ALI
 
-*Id* : CT08PP579
+*ID* : CT08PP579
 
-*domain* : WEB DEVELOPMENT
+*DOMAIN* : WEB DEVELOPMENT
 
-*duration* : 20th MAY 2024 to 20th JUNE 2024
+*DURATION* : 20th MAY 2024 to 20th JUNE 2024
 
-*mentor* : sravani gouri
+*MENTOR* : sravani gouri
 
 #description 
 A to-do list is a fundamental tool for organizing tasks, managing time effectively, and maintaining productivity. It serves as a roadmap, outlining what needs to be accomplished within a specific timeframe. Typically, a to-do list consists of tasks or activities that individuals or teams prioritize based on importance, urgency, or deadlines.
